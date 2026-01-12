@@ -1,4 +1,4 @@
-# Sales Performance & Profitability Analysis
+# Global Stores Sales Performance & Profitability Analysis
 
 Business Objective
 
@@ -6,35 +6,35 @@ The objective of this analysis is to evaluate sales performance, profitability d
 
 Executive Summary
 
-Total sales reached $12.64M, representing a 54% year-over-year growth, indicating strong overall business performance.
+-Total sales reached $12.64M, representing a 54% year-over-year growth, indicating strong overall business performance.
 
-Canon imageCLASS 2200 Advanced Copier is the most profitable product, while Cisco Smart Phone (Full Size) generates the highest revenue, highlighting a revenue vs. profitability trade-off.
+-Canon imageCLASS 2200 Advanced Copier is the most profitable product, while Cisco Smart Phone (Full Size) generates the highest revenue, highlighting a revenue vs. profitability trade-off.
 
-The Central region leads revenue generation with $311K, whereas Canada shows the lowest growth at $18K, suggesting regional performance imbalance.
+-The Central region leads revenue generation with $311K, whereas Canada shows the lowest growth at $18K, suggesting regional performance imbalance.
 
-The top 20% of customers by profit contribute only 6% of total profit, indicating a highly fragmented customer profitability structure.
+-The top 20% of customers by profit contribute only 6% of total profit, indicating a highly fragmented customer profitability structure.
 
-Discounts are consistently associated with profit losses, demonstrating that aggressive discounting negatively impacts margins.
+-Discounts are consistently associated with profit losses, demonstrating that aggressive discounting negatively impacts margins.
 
 Key Insights
 
-Revenue growth does not always translate into profitability; high-revenue products may still deliver low margins.
+-Revenue growth does not always translate into profitability; high-revenue products may still deliver low margins.
 
-Regional performance varies significantly, suggesting opportunities for targeted regional strategies.
+-Regional performance varies significantly, suggesting opportunities for targeted regional strategies.
 
-Customer profitability is widely distributed, indicating potential to optimize pricing, segmentation, and retention strategies.
+-Customer profitability is widely distributed, indicating potential to optimize pricing, segmentation, and retention strategies.
 
-Discounting strategies require tighter controls to avoid eroding profit.
+-Discounting strategies require tighter controls to avoid eroding profit.
 
 Tools & Technologies
 
-Python (Data Cleaning & Exploratory Analysis)
+-Python (Data Cleaning & Exploratory Analysis)
 
-Power BI (Dashboard & Visualization)
+-Power BI (Dashboard & Visualization)
 
-SQL (Data Extraction & Aggregation)
+-SQL (Data Extraction & Aggregation)
 
-Excel (Validation & Cross-checks)
+-Excel (Validation & Cross-checks)
 
 Deliverables
 
